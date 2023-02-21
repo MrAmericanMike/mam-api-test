@@ -1,0 +1,12 @@
+#@api = http://localhost:3000/api
+@api = https://mam-api-test.vercel.app/api
+
+###
+GET {{api}}/random
+
+###
+GET {{api}}/rate-limiter
+
+###
+GET {{api}}/lambda-limiter
+
