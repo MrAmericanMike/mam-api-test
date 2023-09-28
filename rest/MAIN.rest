@@ -7,6 +7,4 @@ GET {{api}}/random
 ###
 GET {{api}}/rate-limiter
 
-###
-GET {{api}}/lambda-limiter
 
