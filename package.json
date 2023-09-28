@@ -4,13 +4,13 @@
 	"author": "MrAmericanMike",
 	"description": "",
 	"main": "",
-	"scripts": {},
-	"license": "MIT",
-	"dependencies": {
-		"lambda-rate-limiter": "^3.0.1"
+	"type": "module",
+	"scripts": {
+		"tsc": "tsc"
 	},
+	"license": "MIT",
 	"devDependencies": {
-		"@vercel/node": "^2.8.14"
+		"@vercel/node": "^3.0.6",
+		"typescript": "^5.2.2"
 	}
 }
-
