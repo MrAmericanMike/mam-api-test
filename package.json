@@ -10,7 +10,7 @@
 	},
 	"license": "MIT",
 	"devDependencies": {
-		"@vercel/node": "3.1.6",
-		"typescript": "5.4.5"
+		"@vercel/node": "3.1.7",
+		"typescript": "5.5.2"
 	}
 }
